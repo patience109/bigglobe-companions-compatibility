@@ -1,0 +1,9 @@
+{
+  "type": "bigglobe:delegating",
+  "delegate": "companions:companions_babayaga",
+  "biomes": [
+    "bigglobe:swamp_forest",
+    "bigglobe:swamp_plains",
+		"bigglobe:swamp_wasteland"
+  ]
+}

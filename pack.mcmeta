@@ -1,7 +1,6 @@
 {
-    "pack":
-    {
-        "pack_format": 48,
-        "description": "Companions x Big Globe by Builderb0y compatibility pack."
-    }
+  "pack": {
+    "pack_format": 48,
+    "description": "Companions x Big Globe compatibility pack. Works mostly the same on 1.20.1, ignore warning. Remember config."
+  }
 }

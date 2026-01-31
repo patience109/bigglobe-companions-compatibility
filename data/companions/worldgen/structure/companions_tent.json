@@ -5,12 +5,8 @@
   "max_distance_from_center": 80,
   "step": "underground_structures",
   "start_height": {
-    "type": "minecraft:biased_to_bottom",
-    "min_inclusive": { "absolute": 64 },
-    "max_inclusive": { "absolute": 800 },
-    "inner": 1
+    "absolute": 65
   },
-  "project_start_to_heightmap": "WORLD_SURFACE_WG",
   "terrain_adaptation": "beard_thin",
   "use_expansion_hack": false,
   "spawn_overrides": {},

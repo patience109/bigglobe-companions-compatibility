@@ -1,0 +1,17 @@
+{
+  "structures": [
+    {
+      "structure": "companions:companions_teddytower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 168272323,
+
+    "spacing": 40,
+
+    "separation": 15,
+
+    "type": "minecraft:random_spread"
+  }
+}
